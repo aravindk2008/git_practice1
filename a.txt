@@ -1,2 +1,2 @@
-file a
+This is a.txt
 it is a text file
