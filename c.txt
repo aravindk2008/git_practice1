@@ -1,1 +1,2 @@
 file c
+it is a text file
